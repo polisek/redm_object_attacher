@@ -22,6 +22,7 @@ It prints a bone, X,Y,Z coordinates and X,Y,Z rotation to the console when finis
 
 # Installation
 add redm_object_attacher to resouces folder
+
 ensure redm_object_attacher
 
 

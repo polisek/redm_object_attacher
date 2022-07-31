@@ -8,7 +8,7 @@ It prints a bone, X,Y,Z coordinates and X,Y,Z rotation to the console when finis
 ![image](https://user-images.githubusercontent.com/107623238/182030083-af5600e5-8e36-4531-817d-819579405188.png)
 
 
-Commands:
+#Commands:
 
 /olstart [ Object Model ] [ Bone name ]
 
@@ -20,8 +20,13 @@ Commands:
 
 /olupdate - Update object - Not needed 
 
+#Installation
+add redm_object_attacher to resouces folder
+ensure redm_object_attacher
 
-Useful links:
+
+
+#Useful links:
 
 Objects: https://rdr2.mooshe.tv/
 

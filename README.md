@@ -1,4 +1,4 @@
-# redm_object_attacher By Polísek
+# Redm Object Attacher By Polísek
 Attach Objects in game for dev servers - printing to console.
 
 A simple script for attaching objects to a character directly in the game.

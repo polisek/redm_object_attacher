@@ -9,16 +9,24 @@ It prints a bone, X,Y,Z coordinates and X,Y,Z rotation to the console when finis
 
 
 Commands:
+
 /olstart [ Object Model ] [ Bone name ]
+
 /olstop - Stops editing and prints to the console.
+
 /olanim - [ Anim Dict ] [ Anim name ]
+
 /oljump - Position by how much the shift jumps - Not needed. 
+
 /olupdate - Update object - Not needed 
 
 
 Useful links:
+
 Objects: https://rdr2.mooshe.tv/
+
 Animations: https://rdr2.mooshe.tv/animations/
+
 Bones: https://github.com/femga/rdr3_discoveries/blob/f729ba03f75a591ce5c841642dc873345242f612/boneNames/mp_male__boneNames.lua
 
 Translated with www.DeepL.com/Translator (free version)

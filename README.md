@@ -38,6 +38,6 @@ Bones: https://github.com/femga/rdr3_discoveries/blob/f729ba03f75a591ce5c841642d
 
 
 # Support
-- discord : Polisek#1558
+- discord : https://discord.gg/VvRGG6rPCc
 - email :  polismanovicp@gmail.com
 - support: https://paypal.me/Polisek?country.x=CZ&locale.x=cs_CZ
